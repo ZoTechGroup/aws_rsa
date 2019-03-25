@@ -58,7 +58,7 @@ int main(int argc, char** argv)
       //-- Load Zotech's RSA Engine from shared library
       //---------------------------------------------------------------------------
 
-      const char *engine_path = "/opt/Zotech_AWS_RSA_Engine.so";
+      const char *engine_path = "/opt/ZoTech_AWS_RSA_Engine.so";
 
       int r;
 
